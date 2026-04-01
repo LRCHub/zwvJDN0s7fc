@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "base_track": "サボテン",
+  "base_artist": "ポルノグラフィティ",
+  "createdAt": "2026-04-01T03:14:06.045672Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サボテン",
+      "artist": "Porno Graffitti",
+      "has_synced": false,
+      "path": "select/01_サボテン_Porno_Graffitti.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "サボテン",
+      "artist": "ポルノグラフィティ",
+      "has_synced": true,
+      "path": "select/02_サボテン_ポルノグラフィティ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "サボテン",
+      "artist": "SHISHAMO",
+      "has_synced": true,
+      "path": "select/03_サボテン_SHISHAMO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "サボテン",
+      "artist": "ポルノグラフィティ",
+      "has_synced": true,
+      "path": "select/04_サボテン_ポルノグラフィティ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "サボテン",
+      "artist": "SHISHAMO",
+      "has_synced": true,
+      "path": "select/05_サボテン_SHISHAMO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "サボテン",
+      "artist": "VIXX",
+      "has_synced": true,
+      "path": "select/06_サボテン_VIXX.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Saboten (サボテン)",
+      "artist": "VIXX",
+      "has_synced": true,
+      "path": "select/07_Saboten_(サボテン)_VIXX.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "サボテン",
+      "artist": "伊藤かな恵",
+      "has_synced": false,
+      "path": "select/08_サボテン_伊藤かな恵.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "サボテン",
+      "artist": "小泉今日子",
+      "has_synced": true,
+      "path": "select/09_サボテン_小泉今日子.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "サボテン",
+      "artist": "Koizumi, Kyoko",
+      "has_synced": true,
+      "path": "select/10_サボテン_Koizumi,_Kyoko.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "サボテン",
+      "artist": "Ryokuoushoku Shakai",
+      "has_synced": false,
+      "path": "select/11_サボテン_Ryokuoushoku_Shakai.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "サボテン",
+      "artist": "PornoGraffitti",
+      "has_synced": false,
+      "path": "select/12_サボテン_PornoGraffitti.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "サボテン",
+      "artist": "I Don't Like Mondays.",
+      "has_synced": true,
+      "path": "select/13_サボテン_I_Don't_Like_Mondays..lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "サボテン",
+      "artist": "PornoGraffitti",
+      "has_synced": false,
+      "path": "select/14_サボテン_PornoGraffitti.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "サボテン",
+      "artist": "Kyoko Koizumi",
+      "has_synced": true,
+      "path": "select/15_サボテン_Kyoko_Koizumi.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "サボテン",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/16_サボテン_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サボテン",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_01_サボテン_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "サボテン",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/localdb_01_サボテン_ポルノグラフィティ.txt",
+      "repo_name": "a_pL3PM4wuU"
+    }
+  ]
+}
